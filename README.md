@@ -1,5 +1,4 @@
-springboot-student-crud
-Spring Boot Student/Guide Demo
+Spring-boot-rest-master
 
 This is a Spring Boot API project that allows you to enroll Students in a classes.
 
